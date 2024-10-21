@@ -1,0 +1,5 @@
+notebook
+xarray
+netCDF4
+numpy
+ace_tools_open
